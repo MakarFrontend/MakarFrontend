@@ -3,4 +3,5 @@ Now i`m programming on Go
 
 ## What i know? ##
 + Go
-+ SQL
++ SQL (PostrgeSQL)
++ Git
